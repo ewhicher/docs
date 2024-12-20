@@ -93,7 +93,7 @@ If you need more flexibility around how the import happens, or would just prefer
     ```
 4. Then, simply run the command to import the content:
     ```
-    php artisan app:import
+    php artisan statamic:import
     ```
 
 If you need to import other content, like taxonomy terms or users, please review the docs on [Repositories](https://statamic.dev/reference/repositories).
